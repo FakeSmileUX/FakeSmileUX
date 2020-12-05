@@ -9,6 +9,7 @@ Tools
 ![](https://img.shields.io/badge/Tool-PyCharm-informational?style=flat&logo=<TOOL>&logoColor=white&color=ff2300)
 ![](https://img.shields.io/badge/Tool-GitBash-informational?style=flat&logo=<TOOL>&logoColor=white&color=ff2300)
 ![](https://img.shields.io/badge/Tool-Terminal-informational?style=flat&logo=<TOOL>&logoColor=white&color=ff2300)
+![](https://img.shields.io/badge/Tool-FirefoxDeveloperEdition-informational?style=flat&logo=<TOOL>&logoColor=white&color=ff2300)
 
 Programming Languages
 
