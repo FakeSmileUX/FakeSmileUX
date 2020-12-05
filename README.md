@@ -13,14 +13,14 @@ Tools
 
 Programming Languages
 
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00) 
-![](https://img.shields.io/badge/Language-Css-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00) 
-![](https://img.shields.io/badge/Language-Html-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00) 
-![](https://img.shields.io/badge/Language-Php-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00)
-![](https://img.shields.io/badge/Language-Yaml-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=17FF00)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616) 
+![](https://img.shields.io/badge/Language-Css-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616) 
+![](https://img.shields.io/badge/Language-Html-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616) 
+![](https://img.shields.io/badge/Language-Php-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616)
+![](https://img.shields.io/badge/Language-Yaml-informational?style=flat&logo=<LANGUAGE>&logoColor=white&color=2EB616)
 
 ### - Others
 
